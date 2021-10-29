@@ -1,6 +1,6 @@
 ## Aʙᴏᴜᴛ ᴍᴇ:
 - Name: Giovana Sofia
-- Age: 18
+- Age: 19
 - Occupation: University student
 - Psychology and philosophy
 - Pronouns: She/her
