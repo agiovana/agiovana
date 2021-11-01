@@ -12,6 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agiovana&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
+	
   
   <img align="right" alt="Gi-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/852632116172554253/902241373967757402/picasion.com_d67ea579d528032659a0c73155e9ad11.gif">
 </div>
